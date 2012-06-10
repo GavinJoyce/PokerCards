@@ -1,4 +1,8 @@
-Poker Cards - Gavin Joyce
+Poker Cards by Gavin Joyce
+
+
+
+---
 
 Based on:
 
